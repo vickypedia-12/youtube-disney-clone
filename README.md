@@ -31,12 +31,3 @@ A Clone of Disney+ App that looks just like Disney+ App
 
 
 
-
-
-
-## Reference
-
-[Youtube Link](https://www.youtube.com/watch?v=R_OERlafbmw)
-
-
-
